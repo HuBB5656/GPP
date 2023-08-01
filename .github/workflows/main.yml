@@ -13,4 +13,4 @@ jobs:
       with:
         server: gpp.skylinkict.com
         username: gpp@gpp.skylinkict.com
-        password: ${{ secrets.FTP_PASSWORD }}
+        password: ${{secrets.FTP_PASSWORD}}
